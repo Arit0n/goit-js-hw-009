@@ -4,7 +4,7 @@
   "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
   "homepage": "https://Arit0n.github.iogoit-js-hw-009/",
   "scripts": {
-    "start": "parcel src/index.html",
+    "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-009/"
   },
   "repository": {
